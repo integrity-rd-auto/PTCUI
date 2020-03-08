@@ -1,6 +1,6 @@
 package test_cases;
 
-import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import Base.TestBase;
@@ -8,15 +8,21 @@ import pages.LoginPage;
 
 public class LoginTest extends TestBase {
 
+	LoginPage loginpage;
+
+	@BeforeMethod
+
+	public void setUp() {
+		initialize();
+
+		loginpage = new LoginPage(driver);
+	}
+
 	@Test
-	public void init() throws Exception {
+	public void login() {
 
-		// driver.get("https:// www.gmail.com");
-		LoginPage loginpage = new LoginPage(driver);
-
-		loginpage.setEmail("mngr249314");
-		//loginpage.clickOnNextButton();
-		loginpage.setPassword("tUgErAh");
-		loginpage.clickOnNextButton();
+		loginpage.login("mngr249314", "tUgErAh");
+		
+		
 	}
 }

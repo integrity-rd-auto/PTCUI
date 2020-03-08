@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1708" started-at="2020-03-08T19:03:39 IST" finished-at="2020-03-08T19:03:41 IST">
+  <suite name="Default suite" duration-ms="26984" started-at="2020-03-08T19:40:02 IST" finished-at="2020-03-08T19:40:29 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1708" started-at="2020-03-08T19:03:39 IST" finished-at="2020-03-08T19:03:41 IST">
+    <test name="Default test" duration-ms="26984" started-at="2020-03-08T19:40:02 IST" finished-at="2020-03-08T19:40:29 IST">
       <class name="test_cases.LoginTest">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:test_cases.LoginTest@694e1548]" name="initialize" is-config="true" duration-ms="13404" started-at="2020-03-08T19:03:26 IST" finished-at="2020-03-08T19:03:39 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.LoginTest@694e1548]" name="setUp" is-config="true" duration-ms="18642" started-at="2020-03-08T19:40:02 IST" finished-at="2020-03-08T19:40:21 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="init()[pri:0, instance:test_cases.LoginTest@694e1548]" name="init" duration-ms="1667" started-at="2020-03-08T19:03:39 IST" finished-at="2020-03-08T19:03:41 IST">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test_cases.LoginTest@694e1548]" name="login" duration-ms="8306" started-at="2020-03-08T19:40:21 IST" finished-at="2020-03-08T19:40:29 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- init -->
+        </test-method> <!-- login -->
       </class> <!-- test_cases.LoginTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
