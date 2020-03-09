@@ -2,10 +2,12 @@ package test_cases;
 
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import Base.TestBase;
 import pages.HomePage;
+@Listeners(TestUtility.ListenerTest.class)
 
 public class NewCustomerTest extends TestBase {
 
