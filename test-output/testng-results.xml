@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26984" started-at="2020-03-08T19:40:02 IST" finished-at="2020-03-08T19:40:29 IST">
+  <suite name="Suite" duration-ms="15494" started-at="2020-03-09T11:19:56 IST" finished-at="2020-03-09T11:20:11 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26984" started-at="2020-03-08T19:40:02 IST" finished-at="2020-03-08T19:40:29 IST">
-      <class name="test_cases.LoginTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.LoginTest@694e1548]" name="setUp" is-config="true" duration-ms="18642" started-at="2020-03-08T19:40:02 IST" finished-at="2020-03-08T19:40:21 IST">
+    <test name="Test" duration-ms="15494" started-at="2020-03-09T11:19:56 IST" finished-at="2020-03-09T11:20:11 IST">
+      <class name="test_cases.NewCustomerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.NewCustomerTest@4d41cee]" name="setUp" is-config="true" duration-ms="1" started-at="2020-03-09T11:20:10 IST" finished-at="2020-03-09T11:20:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="login()[pri:0, instance:test_cases.LoginTest@694e1548]" name="login" duration-ms="8306" started-at="2020-03-08T19:40:21 IST" finished-at="2020-03-08T19:40:29 IST">
+        <test-method status="PASS" signature="selectNewCustomer()[pri:1, instance:test_cases.NewCustomerTest@4d41cee]" name="selectNewCustomer" duration-ms="959" started-at="2020-03-09T11:20:10 IST" finished-at="2020-03-09T11:20:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectNewCustomer -->
+        <test-method status="PASS" signature="enterGender()[pri:2, instance:test_cases.NewCustomerTest@4d41cee]" name="enterGender" duration-ms="29" started-at="2020-03-09T11:20:11 IST" finished-at="2020-03-09T11:20:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterGender -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.NewCustomerTest@4d41cee]" name="setUp" is-config="true" duration-ms="0" started-at="2020-03-09T11:20:11 IST" finished-at="2020-03-09T11:20:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.NewCustomerTest@4d41cee]" name="setUp" is-config="true" duration-ms="0" started-at="2020-03-09T11:20:11 IST" finished-at="2020-03-09T11:20:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="enterCustomerName()[pri:3, instance:test_cases.NewCustomerTest@4d41cee]" name="enterCustomerName" duration-ms="87" started-at="2020-03-09T11:20:11 IST" finished-at="2020-03-09T11:20:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCustomerName -->
+      </class> <!-- test_cases.NewCustomerTest -->
+      <class name="test_cases.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.LoginTest@17579e0f]" name="setUp" is-config="true" duration-ms="12819" started-at="2020-03-09T11:19:56 IST" finished-at="2020-03-09T11:20:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test_cases.LoginTest@17579e0f]" name="login" duration-ms="1549" started-at="2020-03-09T11:20:09 IST" finished-at="2020-03-09T11:20:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:test_cases.LoginTest@17579e0f]" name="TeardownTest" is-config="true" duration-ms="696" started-at="2020-03-09T11:20:11 IST" finished-at="2020-03-09T11:20:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
       </class> <!-- test_cases.LoginTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

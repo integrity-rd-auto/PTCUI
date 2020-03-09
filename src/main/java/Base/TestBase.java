@@ -9,6 +9,7 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterSuite;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -60,8 +61,11 @@ public class TestBase {
 		driver.get(prop.getProperty("url"));
 	}
 
-	/*
-	 * @AfterSuite // Test cleanup public void TeardownTest() {
-	 * TestBase.driver.quit(); }
-	 */
+
+	 @AfterSuite // Test cleanup 
+	 public void TeardownTest()
+	 {
+	  TestBase.driver.quit(); 
+	  }
+	
 }
