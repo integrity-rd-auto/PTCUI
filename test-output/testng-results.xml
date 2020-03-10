@@ -2,46 +2,54 @@
 <testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="31558" started-at="2020-03-09T19:11:57 IST" finished-at="2020-03-09T19:12:28 IST">
+  <suite name="Suite" duration-ms="17529" started-at="2020-03-10T07:59:46 IST" finished-at="2020-03-10T08:00:04 IST">
     <groups>
     </groups>
-    <test name="PTC UI Frameork" duration-ms="31558" started-at="2020-03-09T19:11:57 IST" finished-at="2020-03-09T19:12:28 IST">
+    <test name="PTC UI Frameork" duration-ms="17529" started-at="2020-03-10T07:59:46 IST" finished-at="2020-03-10T08:00:04 IST">
       <class name="test_cases.NewCustomerTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.NewCustomerTest@704a52ec]" name="setUp" is-config="true" duration-ms="2" started-at="2020-03-09T19:12:27 IST" finished-at="2020-03-09T19:12:27 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test_cases.NewCustomerTest@305fd85d]" name="setup" is-config="true" duration-ms="2" started-at="2020-03-10T08:00:02 IST" finished-at="2020-03-10T08:00:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.NewCustomerTest@305fd85d]" name="setUp" is-config="true" duration-ms="1" started-at="2020-03-10T08:00:02 IST" finished-at="2020-03-10T08:00:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="selectNewCustomer()[pri:1, instance:test_cases.NewCustomerTest@704a52ec]" name="selectNewCustomer" duration-ms="627" started-at="2020-03-09T19:12:27 IST" finished-at="2020-03-09T19:12:28 IST">
+        <test-method status="PASS" signature="selectNewCustomer()[pri:1, instance:test_cases.NewCustomerTest@305fd85d]" name="selectNewCustomer" duration-ms="1060" started-at="2020-03-10T08:00:02 IST" finished-at="2020-03-10T08:00:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectNewCustomer -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.NewCustomerTest@704a52ec]" name="setUp" is-config="true" duration-ms="1" started-at="2020-03-09T19:12:28 IST" finished-at="2020-03-09T19:12:28 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.NewCustomerTest@305fd85d]" name="setUp" is-config="true" duration-ms="1" started-at="2020-03-10T08:00:03 IST" finished-at="2020-03-10T08:00:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="enterGender()[pri:2, instance:test_cases.NewCustomerTest@704a52ec]" name="enterGender" duration-ms="61" started-at="2020-03-09T19:12:28 IST" finished-at="2020-03-09T19:12:28 IST">
+        <test-method status="PASS" signature="enterGender()[pri:2, instance:test_cases.NewCustomerTest@305fd85d]" name="enterGender" duration-ms="28" started-at="2020-03-10T08:00:03 IST" finished-at="2020-03-10T08:00:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterGender -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.NewCustomerTest@704a52ec]" name="setUp" is-config="true" duration-ms="1" started-at="2020-03-09T19:12:28 IST" finished-at="2020-03-09T19:12:28 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="enterCustomerName()[pri:3, instance:test_cases.NewCustomerTest@704a52ec]" name="enterCustomerName" duration-ms="137" started-at="2020-03-09T19:12:28 IST" finished-at="2020-03-09T19:12:28 IST">
+        <test-method status="PASS" signature="enterCustomerName()[pri:3, instance:test_cases.NewCustomerTest@305fd85d]" name="enterCustomerName" duration-ms="90" started-at="2020-03-10T08:00:04 IST" finished-at="2020-03-10T08:00:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterCustomerName -->
-      </class> <!-- test_cases.NewCustomerTest -->
-      <class name="test_cases.LoginTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.LoginTest@76f2b07d]" name="setUp" is-config="true" duration-ms="29191" started-at="2020-03-09T19:11:57 IST" finished-at="2020-03-09T19:12:26 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.NewCustomerTest@305fd85d]" name="setUp" is-config="true" duration-ms="0" started-at="2020-03-10T08:00:04 IST" finished-at="2020-03-10T08:00:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="login()[pri:0, instance:test_cases.LoginTest@76f2b07d]" name="login" duration-ms="1479" started-at="2020-03-09T19:12:26 IST" finished-at="2020-03-09T19:12:27 IST">
+      </class> <!-- test_cases.NewCustomerTest -->
+      <class name="test_cases.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test_cases.LoginTest@1877ab81]" name="setup" is-config="true" duration-ms="59" started-at="2020-03-10T07:59:46 IST" finished-at="2020-03-10T07:59:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test_cases.LoginTest@1877ab81]" name="setUp" is-config="true" duration-ms="14552" started-at="2020-03-10T07:59:46 IST" finished-at="2020-03-10T08:00:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test_cases.LoginTest@1877ab81]" name="login" duration-ms="1697" started-at="2020-03-10T08:00:01 IST" finished-at="2020-03-10T08:00:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:test_cases.LoginTest@76f2b07d]" name="TeardownTest" is-config="true" duration-ms="845" started-at="2020-03-09T19:12:28 IST" finished-at="2020-03-09T19:12:29 IST">
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:test_cases.LoginTest@1877ab81]" name="TeardownTest" is-config="true" duration-ms="703" started-at="2020-03-10T08:00:04 IST" finished-at="2020-03-10T08:00:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TeardownTest -->

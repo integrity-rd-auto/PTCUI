@@ -6,10 +6,15 @@ import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.log4j.Level;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -20,6 +25,8 @@ public class TestBase {
 	public static Properties prop;
 
 	public static FileInputStream ip;
+	
+	public static Logger logger;
 
 	public TestBase() {
 		prop = new Properties();
@@ -59,6 +66,15 @@ public class TestBase {
 
 		// To open site
 		driver.get(prop.getProperty("url"));
+	}
+	
+	@BeforeClass
+	public void setup(){
+		
+		logger= Logger.getLogger("PTC");
+		PropertyConfigurator.configure("F:\\workspace\\PageObjectModelBasics\\com.PTC.uiFramework\\test-output\\log4j.properties");
+		logger.setLevel(Level.DEBUG);
+		
 	}
 
 
