@@ -17,7 +17,8 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import Base.TestBase;
-
+import pages.DeletePage;
+import pages.HomePage;
 import pages.NewCustomerCreationPage;
 
 @Listeners(TestUtility.ListenerTest.class)
@@ -26,6 +27,10 @@ public class NewCustomerTest extends TestBase {
 
 	NewCustomerCreationPage newCustomer;
 
+	HomePage homepage;
+
+	DeletePage deletepage;
+
 	public static DataFormatter formatter = new DataFormatter();
 
 	@BeforeMethod
@@ -33,6 +38,10 @@ public class NewCustomerTest extends TestBase {
 	public void setUp() {
 
 		newCustomer = new NewCustomerCreationPage(driver);
+
+		homepage = new HomePage(driver);
+
+		deletepage = new DeletePage(driver);
 
 	}
 
@@ -68,36 +77,32 @@ public class NewCustomerTest extends TestBase {
 	@Test(dataProvider = "readExcel", priority = 2)
 
 	public void enterCustomerDataHere(String Customer_Name, String DOB, String Address, String City, String State,
-			String PIN, String Mobile_Num, String Email, String Password) {
+			String PIN, String Mobile_Num, String Email, String Password) throws InterruptedException {
 
 		logger.info("Enter Customer Detail");
 
 		newCustomer.enterCustomerData(Customer_Name, DOB, Address, City, State, PIN, Mobile_Num, Email, Password);
 
 		newCustomer.clickOnSubmit();
-
-		String s = driver.findElement(By.cssSelector("p.heading3")).getText();
 		
-		Assert.assertEquals(s, "Customer Registered Successfully!!!");
+		String status = driver.findElement(By.cssSelector("p.heading3")).getText();
+		
+		Assert.assertEquals(status, "Customer Registered Successfully!!!");
 
 		String Cust_ID = driver.findElement(By.xpath("//td[contains(text(),'Customer ID')]/following-sibling::td"))
 				.getText();
 
-		driver.findElement(By.xpath("//ul[@class='menusubnav']//a[contains(text(),'Delete Customer')]")).click();
+		logger.info("Customer created"+" "+ Cust_ID );
+		homepage.selectDeleteCustomer();
 
-		driver.findElement(By.xpath("//input[@name='cusid']")).sendKeys(Cust_ID);
+		deletepage.deleteCustomer(Cust_ID);
+		
+		Thread.sleep(500);
+		
+		logger.info("Customer deleted"+" "+ Cust_ID );
 
-		driver.findElement(By.xpath("//input[@name='AccSubmit']")).click();
-
-		Alert confirm = driver.switchTo().alert();
-
-		confirm.accept();
-
-		Alert succ = driver.switchTo().alert();
-
-		succ.accept();
-
-		driver.findElement(By.xpath("//a[contains(text(),'New Customer')]")).click();
+		//driver.findElement(By.xpath("//a[contains(text(),'New Customer')]")).click();
+		homepage.selectnewCustomer();
 
 	}
 

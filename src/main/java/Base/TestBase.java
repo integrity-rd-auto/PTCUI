@@ -24,10 +24,10 @@ public class TestBase {
 	public static Properties prop;
 
 	public static FileInputStream ip;
-	
+
 	public static Logger logger;
-	
-	public static final String testDataExcelFileName ="TestData.xlsx";
+
+	public static final String testDataExcelFileName = "TestData.xlsx";
 
 	public TestBase() {
 		prop = new Properties();
@@ -63,26 +63,24 @@ public class TestBase {
 		driver.manage().window().maximize();
 
 		// Implicit wait
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 
 		// To open site
 		driver.get(prop.getProperty("url"));
 	}
-	
+
 	@BeforeClass
-	public void setup(){
-		
-		logger= Logger.getLogger("PTC");
+	public void setup() {
+
+		logger = Logger.getLogger("PTC");
 		PropertyConfigurator.configure(System.getProperty("user.dir") + "\\test-output\\log4j.properties");
 		logger.setLevel(Level.DEBUG);
-		
+
 	}
 
-	 /*@AfterSuite // Test cleanup 
-	 public void TeardownTest()
-	 {
-	  TestBase.driver.quit(); 
-	  }
-	  */
-	
+	@AfterSuite // Test cleanup
+	public void TeardownTest() {
+		TestBase.driver.quit();
+	}
+
 }

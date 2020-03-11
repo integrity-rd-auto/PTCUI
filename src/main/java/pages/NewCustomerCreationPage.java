@@ -70,7 +70,7 @@ public class NewCustomerCreationPage {
 		TelephoneNumber.sendKeys(Mobile_Num);
 		Email_id.sendKeys(Email);
 		Password_p.sendKeys(Password);
-			}
+		}
 	
 	public void clickOnSubmit() {
 		Submit.click();

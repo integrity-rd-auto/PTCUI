@@ -9,8 +9,9 @@
       <class name="test_cases.NewCustomerTest">
         <methods>
           <include name="setUp"/>
+          <include name="TeardownTest"/>
           <include name="setup"/>
-          <include name="enterCustomerDataHere"/>
+          <include name="enterCustomerDataHere" invocation-numbers="0"/>
         </methods>
       </class> <!-- test_cases.NewCustomerTest -->
     </classes>

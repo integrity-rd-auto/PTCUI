@@ -17,10 +17,21 @@ public class HomePage {
 	@FindBy(xpath = "//a[contains(text(),'New Customer')]")
 
 	WebElement newCustomer;
+	
+	
+	@FindBy(xpath = "//ul[@class='menusubnav']//a[contains(text(),'Delete Customer')]")
+	
+	WebElement deleteCustomer;
 
 	public void selectnewCustomer() {
 
 		newCustomer.click();
+
+	}
+	
+	public void selectDeleteCustomer() {
+
+		deleteCustomer.click();
 
 	}
 	
