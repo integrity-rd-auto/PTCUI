@@ -11,7 +11,7 @@
           <include name="setUp"/>
           <include name="TeardownTest"/>
           <include name="setup"/>
-          <include name="enterCustomerDataHere" invocation-numbers="0"/>
+          <include name="enterCustomerDataHere" invocation-numbers="3"/>
         </methods>
       </class> <!-- test_cases.NewCustomerTest -->
     </classes>

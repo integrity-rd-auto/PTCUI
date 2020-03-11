@@ -36,7 +36,7 @@ public class DeletePage {
 		Alert succ = driver.switchTo().alert();
 
 		succ.accept();
-
-	}
+		
+		}
 
 }

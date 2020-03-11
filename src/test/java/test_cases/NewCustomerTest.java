@@ -17,6 +17,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import Base.TestBase;
+import pages.CustomerRegistrationPage;
 import pages.DeletePage;
 import pages.HomePage;
 import pages.NewCustomerCreationPage;
@@ -30,6 +31,8 @@ public class NewCustomerTest extends TestBase {
 	HomePage homepage;
 
 	DeletePage deletepage;
+	
+	CustomerRegistrationPage customerdetails;
 
 	public static DataFormatter formatter = new DataFormatter();
 
@@ -42,6 +45,8 @@ public class NewCustomerTest extends TestBase {
 		homepage = new HomePage(driver);
 
 		deletepage = new DeletePage(driver);
+		
+		customerdetails = new CustomerRegistrationPage(driver);
 
 	}
 
@@ -88,9 +93,8 @@ public class NewCustomerTest extends TestBase {
 		String status = driver.findElement(By.cssSelector("p.heading3")).getText();
 		
 		Assert.assertEquals(status, "Customer Registered Successfully!!!");
-
-		String Cust_ID = driver.findElement(By.xpath("//td[contains(text(),'Customer ID')]/following-sibling::td"))
-				.getText();
+		
+		String Cust_ID = customerdetails.getCustomerID();
 
 		logger.info("Customer created"+" "+ Cust_ID );
 		homepage.selectDeleteCustomer();
@@ -101,7 +105,6 @@ public class NewCustomerTest extends TestBase {
 		
 		logger.info("Customer deleted"+" "+ Cust_ID );
 
-		//driver.findElement(By.xpath("//a[contains(text(),'New Customer')]")).click();
 		homepage.selectnewCustomer();
 
 	}
