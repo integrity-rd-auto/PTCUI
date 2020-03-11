@@ -6,9 +6,8 @@
       <class name="test_cases.NewCustomerTest">
         <methods>
           <include name="setUp"/>
-          <include name="selectNewCustomer"/>
-          <include name="enterCustomerName"/>
-          <include name="TeardownTest"/>
+          <include name="setup"/>
+          <include name="enterCustomerDataHere"/>
         </methods>
       </class> <!-- test_cases.NewCustomerTest -->
     </classes>

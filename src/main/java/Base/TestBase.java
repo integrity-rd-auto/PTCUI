@@ -14,7 +14,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -27,6 +26,8 @@ public class TestBase {
 	public static FileInputStream ip;
 	
 	public static Logger logger;
+	
+	public static final String testDataExcelFileName ="TestData.xlsx";
 
 	public TestBase() {
 		prop = new Properties();
@@ -72,16 +73,16 @@ public class TestBase {
 	public void setup(){
 		
 		logger= Logger.getLogger("PTC");
-		PropertyConfigurator.configure("F:\\workspace\\PageObjectModelBasics\\com.PTC.uiFramework\\test-output\\log4j.properties");
+		PropertyConfigurator.configure(System.getProperty("user.dir") + "\\test-output\\log4j.properties");
 		logger.setLevel(Level.DEBUG);
 		
 	}
 
-
-	 @AfterSuite // Test cleanup 
+	 /*@AfterSuite // Test cleanup 
 	 public void TeardownTest()
 	 {
 	  TestBase.driver.quit(); 
 	  }
+	  */
 	
 }

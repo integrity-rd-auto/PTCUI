@@ -8,6 +8,7 @@
 	<test name="PTC UI Frameork">
 		<classes>
 			<class name="test_cases.LoginTest" />
+			<class name="test_cases.HomePageTest" />
 			<class name="test_cases.NewCustomerTest" />
 		</classes>
 	</test> <!-- Test -->

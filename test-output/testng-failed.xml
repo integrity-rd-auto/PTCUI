@@ -6,13 +6,13 @@
   </listeners>
   <test thread-count="5" name="PTC UI Frameork(failed)">
     <classes>
-      <class name="test_cases.LoginTest">
+      <class name="test_cases.NewCustomerTest">
         <methods>
-          <include name="login"/>
-          <include name="TeardownTest"/>
           <include name="setUp"/>
+          <include name="setup"/>
+          <include name="enterCustomerDataHere"/>
         </methods>
-      </class> <!-- test_cases.LoginTest -->
+      </class> <!-- test_cases.NewCustomerTest -->
     </classes>
   </test> <!-- PTC UI Frameork(failed) -->
 </suite> <!-- Failed suite [Suite] -->
