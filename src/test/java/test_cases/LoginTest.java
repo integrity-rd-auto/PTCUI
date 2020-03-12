@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import Base.TestBase;
 import pages.LoginPage;
 
-@Listeners(TestUtility.ListenerTest.class)
+@Listeners(TestUtility.ExtentListener.class)
 
 public class LoginTest extends TestBase {
 

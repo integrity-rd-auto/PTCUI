@@ -72,11 +72,12 @@ public class TestBase {
 	@BeforeClass
 	public void setup() {
 
-		logger = Logger.getLogger("PTC");
+		logger = Logger.getLogger(TestBase.class);
 		PropertyConfigurator.configure(System.getProperty("user.dir") + "\\test-output\\log4j.properties");
 		logger.setLevel(Level.DEBUG);
 
 	}
+	
 
 	@AfterSuite // Test cleanup
 	public void TeardownTest() {

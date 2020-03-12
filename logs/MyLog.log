@@ -1,466 +1,126 @@
-2020-03-10 08:00:01 INFO  PTC:31 - ########Login########
-2020-03-10 08:00:02 INFO  PTC:36 - ########Login Done Successfully########
-2020-03-10 08:00:02 INFO  PTC:32 - ######## New Customer ########
-2020-03-10 08:00:03 INFO  PTC:36 - ######## New Customer Creation Page ########
-2020-03-10 08:00:03 INFO  PTC:44 - ######## Select Gender ########
-2020-03-10 08:00:04 INFO  PTC:54 - Fourth Test Case
-2020-03-10 08:13:47 INFO  PTC:31 - ########Login########
-2020-03-10 08:13:48 INFO  PTC:36 - ########Login Done Successfully########
-2020-03-10 08:13:48 INFO  PTC:30 - ######## New Customer ########
-2020-03-10 08:13:49 INFO  PTC:34 - ######## New Customer Creation Page ########
-2020-03-10 08:13:49 INFO  PTC:42 - ######## Select Gender ########
-2020-03-10 08:13:50 INFO  PTC:52 - Enter Customer Name
-2020-03-10 21:16:44 INFO  PTC:32 - ########Login########
-2020-03-10 21:16:46 INFO  PTC:37 - ########Login Done Successfully########
-2020-03-10 21:16:46 INFO  PTC:30 - ######## New Customer ########
-2020-03-10 21:16:47 INFO  PTC:34 - ######## New Customer Creation Page ########
-2020-03-10 21:16:47 INFO  PTC:42 - ######## Select Gender ########
-2020-03-10 21:16:47 INFO  PTC:52 - Enter Customer Name
-2020-03-11 15:18:52 INFO  PTC:32 - ########Login########
-2020-03-11 15:18:55 INFO  PTC:37 - ########Login Done Successfully########
-2020-03-11 15:18:55 INFO  PTC:72 - ######## New Customer ########
-2020-03-11 15:18:55 INFO  PTC:76 - ######## New Customer Creation Page ########
-2020-03-11 15:18:57 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:18:57 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:18:58 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:18:59 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:18:59 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:23:49 INFO  PTC:32 - ########Login########
-2020-03-11 15:23:51 INFO  PTC:37 - ########Login Done Successfully########
-2020-03-11 15:23:51 INFO  PTC:72 - ######## New Customer ########
-2020-03-11 15:23:52 INFO  PTC:76 - ######## New Customer Creation Page ########
-2020-03-11 15:23:53 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:23:54 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:23:55 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:23:55 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:23:56 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:24:48 INFO  PTC:72 - ######## New Customer ########
-2020-03-11 15:25:15 INFO  PTC:32 - ########Login########
-2020-03-11 15:25:17 INFO  PTC:37 - ########Login Done Successfully########
-2020-03-11 15:25:17 INFO  PTC:72 - ######## New Customer ########
-2020-03-11 15:25:18 INFO  PTC:76 - ######## New Customer Creation Page ########
-2020-03-11 15:25:19 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:25:20 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:25:21 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:25:22 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:25:22 INFO  PTC:96 - Enter Customer Name
-2020-03-11 15:27:20 INFO  PTC:32 - ########Login########
-2020-03-11 15:27:22 INFO  PTC:37 - ########Login Done Successfully########
-2020-03-11 15:27:22 INFO  PTC:73 - ######## New Customer ########
-2020-03-11 15:27:23 INFO  PTC:77 - ######## New Customer Creation Page ########
-2020-03-11 15:27:24 INFO  PTC:98 - Enter Customer Name
-2020-03-11 15:27:32 INFO  PTC:98 - Enter Customer Name
-2020-03-11 17:56:18 INFO  PTC:32 - ########Login########
-2020-03-11 17:56:20 INFO  PTC:37 - ########Login Done Successfully########
-2020-03-11 17:56:22 INFO  PTC:78 - Enter Customer Detail
-2020-03-11 17:56:32 INFO  PTC:78 - Enter Customer Detail
-2020-03-11 17:56:43 INFO  PTC:78 - Enter Customer Detail
-2020-03-11 17:58:21 INFO  PTC:32 - ########Login########
-2020-03-11 17:58:24 INFO  PTC:37 - ########Login Done Successfully########
-2020-03-11 17:58:24 INFO  PTC:26 - ########Select New Customer########
-2020-03-11 17:58:25 INFO  PTC:78 - Enter Customer Detail
-2020-03-11 17:58:36 INFO  PTC:78 - Enter Customer Detail
-2020-03-11 18:02:39 INFO  PTC:28 - ########Login########
-2020-03-11 18:02:45 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:02:45 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:03:43 INFO  PTC:28 - ########Login########
-2020-03-11 18:03:45 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:03:45 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:03:46 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:05:08 INFO  PTC:28 - ########Login########
-2020-03-11 18:05:10 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:05:10 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:05:13 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:05:14 INFO  PTC:78 - Enter Customer Detail
-2020-03-11 18:05:16 INFO  PTC:78 - Enter Customer Detail
-2020-03-11 18:05:17 INFO  PTC:78 - Enter Customer Detail
-2020-03-11 18:05:18 INFO  PTC:78 - Enter Customer Detail
-2020-03-11 18:05:19 INFO  PTC:78 - Enter Customer Detail
-2020-03-11 18:10:02 INFO  PTC:28 - ########Login########
-2020-03-11 18:10:05 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:10:05 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:10:06 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:10:06 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:10:09 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:10:16 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:10:17 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:10:18 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:13:23 INFO  PTC:28 - ########Login########
-2020-03-11 18:13:27 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:13:27 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:13:28 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:13:28 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:19:38 INFO  PTC:28 - ########Login########
-2020-03-11 18:19:40 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:19:40 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:19:41 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:19:42 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:19:44 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:19:49 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:19:50 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:19:51 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:22:20 INFO  PTC:28 - ########Login########
-2020-03-11 18:22:22 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:22:22 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:22:23 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:22:24 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:24:30 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:27:32 INFO  PTC:28 - ########Login########
-2020-03-11 18:27:37 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:27:37 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:27:38 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:27:39 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:27:45 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:27:47 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:27:48 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:27:48 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:31:56 INFO  PTC:28 - ########Login########
-2020-03-11 18:31:58 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:31:58 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:31:59 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:31:59 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:32:54 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:34:29 INFO  PTC:28 - ########Login########
-2020-03-11 18:34:30 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:34:30 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:34:31 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:34:32 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:34:35 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:34:38 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:34:39 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:34:40 INFO  PTC:79 - Enter Customer Detail
-2020-03-11 18:40:40 INFO  PTC:28 - ########Login########
-2020-03-11 18:40:42 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:40:42 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:40:43 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:40:43 INFO  PTC:75 - Enter Customer Detail
-2020-03-11 18:43:34 INFO  PTC:28 - ########Login########
-2020-03-11 18:43:36 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:43:36 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:43:37 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:43:38 INFO  PTC:75 - Enter Customer Detail
-2020-03-11 18:43:40 INFO  PTC:75 - Enter Customer Detail
-2020-03-11 18:43:47 INFO  PTC:75 - Enter Customer Detail
-2020-03-11 18:43:48 INFO  PTC:75 - Enter Customer Detail
-2020-03-11 18:43:48 INFO  PTC:75 - Enter Customer Detail
-2020-03-11 18:45:33 INFO  PTC:28 - ########Login########
-2020-03-11 18:45:35 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:45:35 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:45:36 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:46:22 INFO  PTC:28 - ########Login########
-2020-03-11 18:46:24 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:46:24 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:46:26 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:48:44 INFO  PTC:28 - ########Login########
-2020-03-11 18:48:46 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:48:46 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:48:47 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:49:54 INFO  PTC:28 - ########Login########
-2020-03-11 18:49:56 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:49:56 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:49:57 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:50:47 INFO  PTC:28 - ########Login########
-2020-03-11 18:50:49 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:50:49 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:50:50 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:52:42 INFO  PTC:28 - ########Login########
-2020-03-11 18:52:43 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:52:44 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:52:45 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 18:57:48 INFO  PTC:28 - ########Login########
-2020-03-11 18:57:50 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 18:57:50 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 18:57:51 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 19:08:39 INFO  PTC:28 - ########Login########
-2020-03-11 19:08:43 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 19:08:43 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 19:08:44 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 19:13:34 INFO  PTC:28 - ########Login########
-2020-03-11 19:13:39 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 19:13:39 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 19:13:40 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 19:15:35 INFO  PTC:28 - ########Login########
-2020-03-11 19:15:37 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 19:15:37 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 19:15:39 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 19:36:04 INFO  PTC:28 - ########Login########
-2020-03-11 19:36:05 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 19:36:05 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 19:36:06 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 19:36:56 INFO  PTC:28 - ########Login########
-2020-03-11 19:36:59 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 19:36:59 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 19:37:01 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 19:37:02 INFO  PTC:73 - Enter Customer Detail
-2020-03-11 19:38:07 INFO  PTC:28 - ########Login########
-2020-03-11 19:38:09 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 19:38:09 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 19:38:11 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 19:39:23 INFO  PTC:28 - ########Login########
-2020-03-11 19:39:25 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 19:39:25 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 19:39:26 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 19:39:27 INFO  PTC:73 - Enter Customer Detail
-2020-03-11 19:39:34 INFO  PTC:73 - Enter Customer Detail
-2020-03-11 19:45:05 INFO  PTC:28 - ########Login########
-2020-03-11 19:45:07 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 19:45:07 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 19:45:09 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 19:45:10 INFO  PTC:73 - Enter Customer Detail
-2020-03-11 19:45:17 INFO  PTC:73 - Enter Customer Detail
-2020-03-11 20:00:47 INFO  PTC:28 - ########Login########
-2020-03-11 20:00:50 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:00:50 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:00:51 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:00:52 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:00:56 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:04:09 INFO  PTC:28 - ########Login########
-2020-03-11 20:04:11 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:04:11 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:04:12 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:04:13 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:04:25 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:05:52 INFO  PTC:28 - ########Login########
-2020-03-11 20:05:55 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:05:55 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:05:57 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:05:58 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:06:05 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:07:40 INFO  PTC:28 - ########Login########
-2020-03-11 20:07:42 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:07:42 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:07:43 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:07:44 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:07:52 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:10:20 INFO  PTC:28 - ########Login########
-2020-03-11 20:10:22 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:10:22 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:10:23 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:10:24 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:10:31 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:10:39 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:10:42 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:14:35 INFO  PTC:28 - ########Login########
-2020-03-11 20:14:38 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:14:38 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:14:40 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:14:41 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:14:48 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:14:55 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:15:02 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:16:26 INFO  PTC:28 - ########Login########
-2020-03-11 20:16:28 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:16:28 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:16:29 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:16:30 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:16:32 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:16:40 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:16:43 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:41:55 INFO  PTC:28 - ########Login########
-2020-03-11 20:42:01 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:42:01 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:42:04 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:42:15 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:42:26 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:42:36 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:43:15 INFO  PTC:28 - ########Login########
-2020-03-11 20:43:16 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:43:16 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:43:17 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:43:18 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:43:24 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:43:30 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:43:33 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:48:05 INFO  PTC:28 - ########Login########
-2020-03-11 20:48:07 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:48:07 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:48:08 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:48:08 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:48:11 INFO  PTC:99 - Customer created84488
-2020-03-11 20:48:13 INFO  PTC:114 - Customer deleted84488
-2020-03-11 20:48:14 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:48:17 INFO  PTC:99 - Customer created86001
-2020-03-11 20:48:18 INFO  PTC:114 - Customer deleted86001
-2020-03-11 20:48:19 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:48:22 INFO  PTC:99 - Customer created72009
-2020-03-11 20:48:24 INFO  PTC:114 - Customer deleted72009
-2020-03-11 20:48:25 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:48:28 INFO  PTC:99 - Customer created46444
-2020-03-11 20:48:30 INFO  PTC:114 - Customer deleted46444
-2020-03-11 20:49:54 INFO  PTC:28 - ########Login########
-2020-03-11 20:49:56 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:49:56 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:49:57 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:49:58 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:50:00 INFO  PTC:99 - Customer created 18821
-2020-03-11 20:50:02 INFO  PTC:114 - Customer deleted 18821
-2020-03-11 20:50:05 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:50:20 INFO  PTC:99 - Customer created 74849
-2020-03-11 20:51:59 INFO  PTC:28 - ########Login########
-2020-03-11 20:52:00 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:52:00 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:52:01 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:52:02 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:52:04 INFO  PTC:99 - Customer created 1275
-2020-03-11 20:52:08 INFO  PTC:114 - Customer deleted 1275
-2020-03-11 20:52:10 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:52:12 INFO  PTC:99 - Customer created 96219
-2020-03-11 20:52:14 INFO  PTC:114 - Customer deleted 96219
-2020-03-11 20:52:16 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:52:19 INFO  PTC:99 - Customer created 54026
-2020-03-11 20:52:28 INFO  PTC:114 - Customer deleted 54026
-2020-03-11 20:52:29 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:54:38 INFO  PTC:28 - ########Login########
-2020-03-11 20:54:45 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:54:45 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:54:47 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:54:47 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:54:50 INFO  PTC:95 - Customer created 16671
-2020-03-11 20:54:52 INFO  PTC:112 - Customer deleted 16671
-2020-03-11 20:54:53 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:54:56 INFO  PTC:95 - Customer created 30947
-2020-03-11 20:54:58 INFO  PTC:112 - Customer deleted 30947
-2020-03-11 20:55:00 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:55:03 INFO  PTC:95 - Customer created 87279
-2020-03-11 20:55:05 INFO  PTC:112 - Customer deleted 87279
-2020-03-11 20:55:06 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:55:09 INFO  PTC:95 - Customer created 23850
-2020-03-11 20:55:10 INFO  PTC:112 - Customer deleted 23850
-2020-03-11 20:59:14 INFO  PTC:28 - ########Login########
-2020-03-11 20:59:19 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 20:59:19 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 20:59:19 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 20:59:20 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:59:23 INFO  PTC:95 - Customer created 39342
-2020-03-11 20:59:25 INFO  PTC:112 - Customer deleted 39342
-2020-03-11 20:59:26 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:59:29 INFO  PTC:95 - Customer created 87771
-2020-03-11 20:59:31 INFO  PTC:112 - Customer deleted 87771
-2020-03-11 20:59:32 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:59:35 INFO  PTC:95 - Customer created 30028
-2020-03-11 20:59:36 INFO  PTC:112 - Customer deleted 30028
-2020-03-11 20:59:37 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 20:59:40 INFO  PTC:95 - Customer created 42758
-2020-03-11 20:59:41 INFO  PTC:112 - Customer deleted 42758
-2020-03-11 21:04:55 INFO  PTC:28 - ########Login########
-2020-03-11 21:04:57 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 21:04:57 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:04:57 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:04:58 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:05:01 INFO  PTC:95 - Customer created 95277
-2020-03-11 21:05:21 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:05:41 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:06:32 INFO  PTC:28 - ########Login########
-2020-03-11 21:06:34 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 21:06:34 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:06:35 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:06:35 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:06:38 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:06:40 INFO  PTC:95 - Customer created 40271
-2020-03-11 21:07:00 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:08:49 INFO  PTC:28 - ########Login########
-2020-03-11 21:08:53 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 21:08:53 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:08:54 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:08:54 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:08:56 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:08:58 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:09:01 INFO  PTC:95 - Customer created 38166
-2020-03-11 21:09:03 INFO  PTC:102 - Customer deleted 38166
-2020-03-11 21:09:04 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:09:07 INFO  PTC:95 - Customer created 41476
-2020-03-11 21:09:09 INFO  PTC:102 - Customer deleted 41476
-2020-03-11 21:16:22 INFO  PTC:28 - ########Login########
-2020-03-11 21:16:24 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:16:24 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:16:25 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:22:50 INFO  PTC:28 - ########Login########
-2020-03-11 21:23:33 INFO  PTC:28 - ########Login########
-2020-03-11 21:23:35 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 21:23:35 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:23:36 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:23:37 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:23:39 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:23:48 INFO  PTC:95 - Customer created 31918
-2020-03-11 21:23:51 INFO  PTC:102 - Customer deleted 31918
-2020-03-11 21:23:53 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:23:56 INFO  PTC:95 - Customer created 52194
-2020-03-11 21:23:59 INFO  PTC:102 - Customer deleted 52194
-2020-03-11 21:24:07 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:25:28 INFO  PTC:28 - ########Login########
-2020-03-11 21:26:47 INFO  PTC:28 - ########Login########
-2020-03-11 21:26:49 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 21:26:49 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:26:49 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:26:50 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:26:52 INFO  PTC:95 - Customer created 8314
-2020-03-11 21:30:15 INFO  PTC:28 - ########Login########
-2020-03-11 21:30:18 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 21:30:18 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:30:19 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:30:20 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:30:26 INFO  PTC:95 - Customer created 17035
-2020-03-11 21:33:53 INFO  PTC:28 - ########Login########
-2020-03-11 21:34:52 INFO  PTC:28 - ########Login########
-2020-03-11 21:35:14 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 21:35:14 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:35:36 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:35:37 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:42:32 INFO  PTC:28 - ########Login########
-2020-03-11 21:42:36 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 21:42:36 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:42:36 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:42:37 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:42:51 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:43:44 INFO  PTC:28 - ########Login########
-2020-03-11 21:43:47 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 21:43:47 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:43:49 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:43:50 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:43:53 INFO  PTC:95 - Customer created 2355
-2020-03-11 21:43:56 INFO  PTC:102 - Customer deleted 2355
-2020-03-11 21:43:57 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:44:01 INFO  PTC:95 - Customer created 38693
-2020-03-11 21:44:04 INFO  PTC:102 - Customer deleted 38693
-2020-03-11 21:44:05 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:44:07 INFO  PTC:95 - Customer created 64980
-2020-03-11 21:44:10 INFO  PTC:102 - Customer deleted 64980
-2020-03-11 21:44:11 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:46:00 INFO  PTC:28 - ########Login########
-2020-03-11 21:46:02 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 21:46:02 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:46:08 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:46:09 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:46:13 INFO  PTC:95 - Customer created 54413
-2020-03-11 21:46:20 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:46:40 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:47:01 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:47:46 INFO  PTC:28 - ########Login########
-2020-03-11 21:47:49 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 21:47:49 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 21:47:49 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 21:47:50 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:47:52 INFO  PTC:95 - Customer created 79043
-2020-03-11 21:47:56 INFO  PTC:102 - Customer deleted 79043
-2020-03-11 21:47:58 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:48:01 INFO  PTC:95 - Customer created 8273
-2020-03-11 21:48:03 INFO  PTC:102 - Customer deleted 8273
-2020-03-11 21:48:04 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:48:06 INFO  PTC:95 - Customer created 97173
-2020-03-11 21:48:09 INFO  PTC:102 - Customer deleted 97173
-2020-03-11 21:48:10 INFO  PTC:82 - Enter Customer Detail
-2020-03-11 21:48:22 INFO  PTC:95 - Customer created 81850
-2020-03-11 21:48:24 INFO  PTC:102 - Customer deleted 81850
-2020-03-11 22:12:13 INFO  PTC:28 - ########Login########
-2020-03-11 22:12:46 INFO  PTC:28 - ########Login########
-2020-03-11 22:12:49 INFO  PTC:33 - ########Login Done Successfully########
-2020-03-11 22:12:49 INFO  PTC:34 - ########Select New Customer########
-2020-03-11 22:12:49 INFO  PTC:39 - ########New Customer Page Loaded########
-2020-03-11 22:12:50 INFO  PTC:87 - Enter Customer Detail
-2020-03-11 22:12:53 INFO  PTC:99 - Customer created 92418
-2020-03-11 22:12:56 INFO  PTC:106 - Customer deleted 92418
-2020-03-11 22:12:57 INFO  PTC:87 - Enter Customer Detail
-2020-03-11 22:13:00 INFO  PTC:99 - Customer created 38294
-2020-03-11 22:13:02 INFO  PTC:106 - Customer deleted 38294
-2020-03-11 22:13:03 INFO  PTC:87 - Enter Customer Detail
-2020-03-11 22:13:05 INFO  PTC:99 - Customer created 24743
+2020-03-12 13:15:03 INFO  ExtentListener:64 - login Test Started..
+2020-03-12 13:15:03 INFO  TestBase:28 - ########Login########
+2020-03-12 13:15:05 INFO  TestBase:33 - ########Login Done Successfully########
+2020-03-12 13:15:05 INFO  ExtentListener:70 - login Test Passed..
+2020-03-12 13:15:05 INFO  ExtentListener:64 - login Test Started..
+2020-03-12 13:15:05 INFO  TestBase:32 - ########Select New Customer########
+2020-03-12 13:15:06 INFO  TestBase:37 - ########New Customer Page Loaded########
+2020-03-12 13:15:06 INFO  ExtentListener:70 - login Test Passed..
+2020-03-12 13:15:07 INFO  ExtentListener:64 - enterCustomerDataHere Test Started..
+2020-03-12 13:15:07 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:15:10 INFO  TestBase:99 - Customer created 4737
+2020-03-12 13:15:12 INFO  TestBase:106 - Customer deleted 4737
+2020-03-12 13:15:14 INFO  ExtentListener:70 - enterCustomerDataHere Test Passed..
+2020-03-12 13:15:14 INFO  ExtentListener:64 - enterCustomerDataHere Test Started..
+2020-03-12 13:15:14 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:15:16 INFO  TestBase:99 - Customer created 37376
+2020-03-12 13:15:18 INFO  TestBase:106 - Customer deleted 37376
+2020-03-12 13:15:19 INFO  ExtentListener:70 - enterCustomerDataHere Test Passed..
+2020-03-12 13:15:19 INFO  ExtentListener:64 - enterCustomerDataHere Test Started..
+2020-03-12 13:15:19 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:15:22 INFO  TestBase:99 - Customer created 82233
+2020-03-12 13:15:24 INFO  TestBase:106 - Customer deleted 82233
+2020-03-12 13:15:25 INFO  ExtentListener:70 - enterCustomerDataHere Test Passed..
+2020-03-12 13:15:25 INFO  ExtentListener:64 - enterCustomerDataHere Test Started..
+2020-03-12 13:15:25 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:15:28 INFO  TestBase:99 - Customer created 21176
+2020-03-12 13:15:30 INFO  TestBase:106 - Customer deleted 21176
+2020-03-12 13:15:31 INFO  ExtentListener:70 - enterCustomerDataHere Test Passed..
+2020-03-12 13:15:31 INFO  ExtentListener:27 - PTC UI Frameork Test Finished
+2020-03-12 13:35:04 INFO  ExtentListener:63 - login Test Started..
+2020-03-12 13:35:04 INFO  TestBase:28 - ########Login########
+2020-03-12 13:35:06 INFO  TestBase:33 - ########Login Done Successfully########
+2020-03-12 13:35:06 INFO  ExtentListener:69 - login Test Passed..
+2020-03-12 13:35:06 INFO  ExtentListener:63 - login Test Started..
+2020-03-12 13:35:06 INFO  TestBase:32 - ########Select New Customer########
+2020-03-12 13:35:07 INFO  TestBase:37 - ########New Customer Page Loaded########
+2020-03-12 13:35:07 INFO  ExtentListener:69 - login Test Passed..
+2020-03-12 13:35:07 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:35:07 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:35:09 ERROR ExtentListener:43 - enterCustomerDataHere Test Failed..org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Customer could not be added !!}
+  (Session info: chrome=80.0.3987.132): Customer could not be added !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-O3E0A86', ip: '192.168.2.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.132, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\DELL\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60734}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 933a70813267d0689f2721315dbab152
+*** Element info: {Using=css selector, value=p.heading3}
+2020-03-12 13:35:10 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:35:10 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:35:12 INFO  TestBase:99 - Customer created 49605
+2020-03-12 13:35:16 INFO  TestBase:106 - Customer deleted 49605
+2020-03-12 13:35:17 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-12 13:35:17 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:35:17 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:35:19 INFO  TestBase:99 - Customer created 45973
+2020-03-12 13:35:21 INFO  TestBase:106 - Customer deleted 45973
+2020-03-12 13:35:22 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-12 13:35:22 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:35:22 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:35:24 ERROR ExtentListener:43 - enterCustomerDataHere Test Failed..org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Customer could not be added !!}
+  (Session info: chrome=80.0.3987.132): Customer could not be added !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-O3E0A86', ip: '192.168.2.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.132, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\DELL\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60734}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 933a70813267d0689f2721315dbab152
+*** Element info: {Using=css selector, value=p.heading3}
+2020-03-12 13:35:24 INFO  ExtentListener:26 - PTC UI Frameork Test Finished
+2020-03-12 13:36:48 INFO  ExtentListener:63 - login Test Started..
+2020-03-12 13:36:48 INFO  TestBase:28 - ########Login########
+2020-03-12 13:36:50 INFO  TestBase:33 - ########Login Done Successfully########
+2020-03-12 13:36:50 INFO  ExtentListener:69 - login Test Passed..
+2020-03-12 13:36:50 INFO  ExtentListener:63 - login Test Started..
+2020-03-12 13:36:50 INFO  TestBase:32 - ########Select New Customer########
+2020-03-12 13:36:51 INFO  TestBase:37 - ########New Customer Page Loaded########
+2020-03-12 13:36:51 INFO  ExtentListener:69 - login Test Passed..
+2020-03-12 13:36:53 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:36:53 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:36:56 INFO  TestBase:99 - Customer created 18211
+2020-03-12 13:36:58 INFO  TestBase:106 - Customer deleted 18211
+2020-03-12 13:36:59 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-12 13:36:59 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:36:59 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:37:01 INFO  TestBase:99 - Customer created 32109
+2020-03-12 13:37:03 INFO  TestBase:106 - Customer deleted 32109
+2020-03-12 13:37:04 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-12 13:37:04 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:37:04 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:37:07 INFO  TestBase:99 - Customer created 17009
+2020-03-12 13:37:08 INFO  TestBase:106 - Customer deleted 17009
+2020-03-12 13:37:09 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-12 13:37:09 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:37:09 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:37:11 INFO  TestBase:99 - Customer created 23949
+2020-03-12 13:37:13 INFO  TestBase:106 - Customer deleted 23949
+2020-03-12 13:37:14 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-12 13:37:14 INFO  ExtentListener:26 - PTC UI Frameork Test Finished
+2020-03-12 13:37:53 INFO  ExtentListener:63 - login Test Started..
+2020-03-12 13:37:53 INFO  TestBase:28 - ########Login########
+2020-03-12 13:37:55 INFO  TestBase:33 - ########Login Done Successfully########
+2020-03-12 13:37:55 INFO  ExtentListener:69 - login Test Passed..
+2020-03-12 13:37:55 INFO  ExtentListener:63 - login Test Started..
+2020-03-12 13:37:55 INFO  TestBase:32 - ########Select New Customer########
+2020-03-12 13:37:56 INFO  TestBase:37 - ########New Customer Page Loaded########
+2020-03-12 13:37:56 INFO  ExtentListener:69 - login Test Passed..
+2020-03-12 13:37:57 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:37:57 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:38:00 INFO  TestBase:99 - Customer created 38653
+2020-03-12 13:38:02 INFO  TestBase:106 - Customer deleted 38653
+2020-03-12 13:38:03 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-12 13:38:03 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:38:03 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:38:05 INFO  TestBase:99 - Customer created 54749
+2020-03-12 13:38:07 INFO  TestBase:106 - Customer deleted 54749
+2020-03-12 13:38:08 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-12 13:38:08 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:38:08 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:38:11 INFO  TestBase:99 - Customer created 38102
+2020-03-12 13:38:13 INFO  TestBase:106 - Customer deleted 38102
+2020-03-12 13:38:15 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-12 13:38:15 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-12 13:38:15 INFO  TestBase:87 - Enter Customer Detail
+2020-03-12 13:38:17 INFO  TestBase:99 - Customer created 57991
+2020-03-12 13:38:19 INFO  TestBase:106 - Customer deleted 57991
+2020-03-12 13:38:20 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-12 13:38:20 INFO  ExtentListener:26 - PTC UI Frameork Test Finished

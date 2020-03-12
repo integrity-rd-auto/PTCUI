@@ -12,21 +12,19 @@ import Base.TestBase;
 import pages.HomePage;
 import pages.LoginPage;
 
-@Listeners(TestUtility.ListenerTest.class)
+@Listeners(TestUtility.ExtentListener.class)
 
 public class HomePageTest extends TestBase {
 
 	HomePage homepage;
-	
+
 	@BeforeMethod
 
 	public void setUp() {
-		
+
 		homepage = new HomePage(driver);
 
 	}
-	
-	
 
 	@Test
 	public void login() {

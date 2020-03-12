@@ -22,7 +22,7 @@ import pages.DeletePage;
 import pages.HomePage;
 import pages.NewCustomerCreationPage;
 
-@Listeners(TestUtility.ListenerTest.class)
+@Listeners(TestUtility.ExtentListener.class)
 
 public class NewCustomerTest extends TestBase {
 
