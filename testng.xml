@@ -2,8 +2,9 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 	<listeners>
-		<listener
-			class-name="ExtentReportListener.ExtentReporterNG" />
+		<listener class-name="TestUtility.RetryTransformer" />
+		<listener class-name="ExtentReportListener.ExtentReporterNG" /> 
+		
 	</listeners>
 	<test name="PTC UI Frameork">
 		<classes>

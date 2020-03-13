@@ -37,5 +37,6 @@
 	<classpathentry kind="lib" path="D:/Selenium_jar/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/Users/DELL/.p2/pool/plugins/org.testng_7.0.0.r201908191551.jar" sourcepath="C:/Users/DELL/.p2/pool/plugins/org.testng.source_7.0.0.r201908191551.jar"/>
 	<classpathentry kind="src" path="/DataDriven"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/sikuli-script.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

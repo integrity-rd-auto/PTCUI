@@ -1,126 +1,31 @@
-2020-03-12 13:15:03 INFO  ExtentListener:64 - login Test Started..
-2020-03-12 13:15:03 INFO  TestBase:28 - ########Login########
-2020-03-12 13:15:05 INFO  TestBase:33 - ########Login Done Successfully########
-2020-03-12 13:15:05 INFO  ExtentListener:70 - login Test Passed..
-2020-03-12 13:15:05 INFO  ExtentListener:64 - login Test Started..
-2020-03-12 13:15:05 INFO  TestBase:32 - ########Select New Customer########
-2020-03-12 13:15:06 INFO  TestBase:37 - ########New Customer Page Loaded########
-2020-03-12 13:15:06 INFO  ExtentListener:70 - login Test Passed..
-2020-03-12 13:15:07 INFO  ExtentListener:64 - enterCustomerDataHere Test Started..
-2020-03-12 13:15:07 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:15:10 INFO  TestBase:99 - Customer created 4737
-2020-03-12 13:15:12 INFO  TestBase:106 - Customer deleted 4737
-2020-03-12 13:15:14 INFO  ExtentListener:70 - enterCustomerDataHere Test Passed..
-2020-03-12 13:15:14 INFO  ExtentListener:64 - enterCustomerDataHere Test Started..
-2020-03-12 13:15:14 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:15:16 INFO  TestBase:99 - Customer created 37376
-2020-03-12 13:15:18 INFO  TestBase:106 - Customer deleted 37376
-2020-03-12 13:15:19 INFO  ExtentListener:70 - enterCustomerDataHere Test Passed..
-2020-03-12 13:15:19 INFO  ExtentListener:64 - enterCustomerDataHere Test Started..
-2020-03-12 13:15:19 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:15:22 INFO  TestBase:99 - Customer created 82233
-2020-03-12 13:15:24 INFO  TestBase:106 - Customer deleted 82233
-2020-03-12 13:15:25 INFO  ExtentListener:70 - enterCustomerDataHere Test Passed..
-2020-03-12 13:15:25 INFO  ExtentListener:64 - enterCustomerDataHere Test Started..
-2020-03-12 13:15:25 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:15:28 INFO  TestBase:99 - Customer created 21176
-2020-03-12 13:15:30 INFO  TestBase:106 - Customer deleted 21176
-2020-03-12 13:15:31 INFO  ExtentListener:70 - enterCustomerDataHere Test Passed..
-2020-03-12 13:15:31 INFO  ExtentListener:27 - PTC UI Frameork Test Finished
-2020-03-12 13:35:04 INFO  ExtentListener:63 - login Test Started..
-2020-03-12 13:35:04 INFO  TestBase:28 - ########Login########
-2020-03-12 13:35:06 INFO  TestBase:33 - ########Login Done Successfully########
-2020-03-12 13:35:06 INFO  ExtentListener:69 - login Test Passed..
-2020-03-12 13:35:06 INFO  ExtentListener:63 - login Test Started..
-2020-03-12 13:35:06 INFO  TestBase:32 - ########Select New Customer########
-2020-03-12 13:35:07 INFO  TestBase:37 - ########New Customer Page Loaded########
-2020-03-12 13:35:07 INFO  ExtentListener:69 - login Test Passed..
-2020-03-12 13:35:07 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:35:07 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:35:09 ERROR ExtentListener:43 - enterCustomerDataHere Test Failed..org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Customer could not be added !!}
-  (Session info: chrome=80.0.3987.132): Customer could not be added !!
+2020-03-13 16:04:04 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-13 16:04:04 INFO  PTC:63 - Enter Customer Detail
+2020-03-13 16:04:05 ERROR ExtentListener:43 - enterCustomerDataHere Test Failed..org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Email Address Already Exist !!}
+  (Session info: chrome=80.0.3987.132): Email Address Already Exist !!
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
 System info: host: 'DESKTOP-O3E0A86', ip: '192.168.2.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.132, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\DELL\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60734}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 933a70813267d0689f2721315dbab152
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.132, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\DELL\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50079}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd3d78919cba0b64e3b588a8b13bd6f4
 *** Element info: {Using=css selector, value=p.heading3}
-2020-03-12 13:35:10 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:35:10 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:35:12 INFO  TestBase:99 - Customer created 49605
-2020-03-12 13:35:16 INFO  TestBase:106 - Customer deleted 49605
-2020-03-12 13:35:17 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
-2020-03-12 13:35:17 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:35:17 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:35:19 INFO  TestBase:99 - Customer created 45973
-2020-03-12 13:35:21 INFO  TestBase:106 - Customer deleted 45973
-2020-03-12 13:35:22 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
-2020-03-12 13:35:22 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:35:22 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:35:24 ERROR ExtentListener:43 - enterCustomerDataHere Test Failed..org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Customer could not be added !!}
-  (Session info: chrome=80.0.3987.132): Customer could not be added !!
+2020-03-13 16:04:07 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-13 16:04:07 INFO  PTC:63 - Enter Customer Detail
+2020-03-13 16:04:08 ERROR ExtentListener:43 - enterCustomerDataHere Test Failed..org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Email Address Already Exist !!}
+  (Session info: chrome=80.0.3987.132): Email Address Already Exist !!
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
 System info: host: 'DESKTOP-O3E0A86', ip: '192.168.2.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.132, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\DELL\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60734}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 933a70813267d0689f2721315dbab152
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.132, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\DELL\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50079}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd3d78919cba0b64e3b588a8b13bd6f4
 *** Element info: {Using=css selector, value=p.heading3}
-2020-03-12 13:35:24 INFO  ExtentListener:26 - PTC UI Frameork Test Finished
-2020-03-12 13:36:48 INFO  ExtentListener:63 - login Test Started..
-2020-03-12 13:36:48 INFO  TestBase:28 - ########Login########
-2020-03-12 13:36:50 INFO  TestBase:33 - ########Login Done Successfully########
-2020-03-12 13:36:50 INFO  ExtentListener:69 - login Test Passed..
-2020-03-12 13:36:50 INFO  ExtentListener:63 - login Test Started..
-2020-03-12 13:36:50 INFO  TestBase:32 - ########Select New Customer########
-2020-03-12 13:36:51 INFO  TestBase:37 - ########New Customer Page Loaded########
-2020-03-12 13:36:51 INFO  ExtentListener:69 - login Test Passed..
-2020-03-12 13:36:53 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:36:53 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:36:56 INFO  TestBase:99 - Customer created 18211
-2020-03-12 13:36:58 INFO  TestBase:106 - Customer deleted 18211
-2020-03-12 13:36:59 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
-2020-03-12 13:36:59 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:36:59 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:37:01 INFO  TestBase:99 - Customer created 32109
-2020-03-12 13:37:03 INFO  TestBase:106 - Customer deleted 32109
-2020-03-12 13:37:04 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
-2020-03-12 13:37:04 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:37:04 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:37:07 INFO  TestBase:99 - Customer created 17009
-2020-03-12 13:37:08 INFO  TestBase:106 - Customer deleted 17009
-2020-03-12 13:37:09 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
-2020-03-12 13:37:09 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:37:09 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:37:11 INFO  TestBase:99 - Customer created 23949
-2020-03-12 13:37:13 INFO  TestBase:106 - Customer deleted 23949
-2020-03-12 13:37:14 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
-2020-03-12 13:37:14 INFO  ExtentListener:26 - PTC UI Frameork Test Finished
-2020-03-12 13:37:53 INFO  ExtentListener:63 - login Test Started..
-2020-03-12 13:37:53 INFO  TestBase:28 - ########Login########
-2020-03-12 13:37:55 INFO  TestBase:33 - ########Login Done Successfully########
-2020-03-12 13:37:55 INFO  ExtentListener:69 - login Test Passed..
-2020-03-12 13:37:55 INFO  ExtentListener:63 - login Test Started..
-2020-03-12 13:37:55 INFO  TestBase:32 - ########Select New Customer########
-2020-03-12 13:37:56 INFO  TestBase:37 - ########New Customer Page Loaded########
-2020-03-12 13:37:56 INFO  ExtentListener:69 - login Test Passed..
-2020-03-12 13:37:57 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:37:57 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:38:00 INFO  TestBase:99 - Customer created 38653
-2020-03-12 13:38:02 INFO  TestBase:106 - Customer deleted 38653
-2020-03-12 13:38:03 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
-2020-03-12 13:38:03 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:38:03 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:38:05 INFO  TestBase:99 - Customer created 54749
-2020-03-12 13:38:07 INFO  TestBase:106 - Customer deleted 54749
-2020-03-12 13:38:08 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
-2020-03-12 13:38:08 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:38:08 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:38:11 INFO  TestBase:99 - Customer created 38102
-2020-03-12 13:38:13 INFO  TestBase:106 - Customer deleted 38102
-2020-03-12 13:38:15 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
-2020-03-12 13:38:15 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
-2020-03-12 13:38:15 INFO  TestBase:87 - Enter Customer Detail
-2020-03-12 13:38:17 INFO  TestBase:99 - Customer created 57991
-2020-03-12 13:38:19 INFO  TestBase:106 - Customer deleted 57991
-2020-03-12 13:38:20 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
-2020-03-12 13:38:20 INFO  ExtentListener:26 - PTC UI Frameork Test Finished
+2020-03-13 16:04:09 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-13 16:04:09 INFO  PTC:63 - Enter Customer Detail
+2020-03-13 16:04:11 INFO  PTC:75 - Customer created 17127
+2020-03-13 16:04:15 INFO  PTC:82 - Customer deleted 17127
+2020-03-13 16:04:16 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-13 16:04:16 INFO  ExtentListener:63 - enterCustomerDataHere Test Started..
+2020-03-13 16:04:16 INFO  PTC:63 - Enter Customer Detail
+2020-03-13 16:04:20 INFO  PTC:75 - Customer created 83893
+2020-03-13 16:04:22 INFO  PTC:82 - Customer deleted 83893
+2020-03-13 16:04:23 INFO  ExtentListener:69 - enterCustomerDataHere Test Passed..
+2020-03-13 16:04:23 INFO  ExtentListener:26 - PTC UI Frameork Test Finished
